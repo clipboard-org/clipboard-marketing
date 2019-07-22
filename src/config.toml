@@ -1,0 +1,4 @@
+baseURL = "http://clipboard.com"
+languageCode = "en-us"
+title = "clipboard"
+publishDir = "../docs/"
